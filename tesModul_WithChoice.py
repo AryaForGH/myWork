@@ -55,7 +55,6 @@ back = input("Apakah Anda Ingin Mengoperasikan Kembali ?? (y/n) : ")
 
 if back == 'y':
     show_menu()
-    choose
 else:
     exit 
     print("\nAnda Telah Keluar Dari Program\n")
