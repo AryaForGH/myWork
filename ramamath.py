@@ -12,3 +12,6 @@ def LuasLingkaran (num):
 
 def DiameterLingkaran (num):
     return 2 * num
+
+def KelPersegiPanjang (p,l):
+    return 2 * (p + l)
